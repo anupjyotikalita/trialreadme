@@ -2,4 +2,4 @@
 
 ###How this works
 1.
-![]("calendar.PNG")
+![]("home.PNG")
