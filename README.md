@@ -1,5 +1,5 @@
 # Trial Images
 
-###How this works
+### How this works
 1.
-![]("home.PNG")
+<img src="home.PNG" >
