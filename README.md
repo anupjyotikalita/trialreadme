@@ -18,7 +18,7 @@ You can checkout this web app at work in this link- https://activity-time-range.
 ### How it works
 Check the following screenshots that will explain various aspects of the app interface-
 1. The homepage of the web app displays the available users list in a grid system.
-<img src= "home.PNG" >
+<img src= "home.PNG" width="400" height="350" >
 
 
 
